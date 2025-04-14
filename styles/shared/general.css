@@ -109,6 +109,14 @@ input:focus {
 
 }
 
+.decription{
+  display:flex;
+  flex-direction:column;
+}
+.description div{
+  flex:1;
+}
+
 .contact img{
   vertical-align: bottom;
   
