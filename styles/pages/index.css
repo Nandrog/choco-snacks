@@ -1,0 +1,20 @@
+.about{
+  display:grid;
+  grid-template-columns: repeat(2,1fr);
+}
+.about div{
+  text-align: center;
+}
+.profile-pic{
+  width: 200px;
+  border-radius: 100px;
+}
+.profile{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+.profile div{
+  flex:1;
+}
