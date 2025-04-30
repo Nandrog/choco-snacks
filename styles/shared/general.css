@@ -125,10 +125,4 @@ input:focus {
 .contact p{
   margin-bottom: 10px;
 }
-.site-map{
-  display: flex;
-  justify-content:space-around;
-  flex-wrap: wrap;
-  background-color: brown;
-  color:white;
-}
+
